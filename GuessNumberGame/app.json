@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RNApps",
-    "slug": "RNApps",
+    "name": "GuessNumberGame",
+    "slug": "GuessNumberGame",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
