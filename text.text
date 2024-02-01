@@ -1,0 +1,7 @@
+https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[API_KEY]
+AIzaSyDJEr5sl4V-CAP_EWabIJHcCRHe3d9sweY
+
+https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=[API_KEY]
+
+
+https://reactnative-6615f-default-rtdb.firebaseio.com/message.json?auth=
